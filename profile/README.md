@@ -24,7 +24,7 @@ Gestisci prenotazioni, slot interni e tempi morti con un sistema intuitivo e ott
 Il tuo alleato per nutrizione e benessere.  
 Piani personalizzati, tracciamento dei progressi e strumenti per professionisti della salute.
 
-### 🔹 [menuweb.it](https://menuweb.it)
+### 🔹 [menuweb.net](https://menuweb.net)
 Menù digitali interattivi per ristoranti e bar.  
 Aggiornabili in tempo reale, senza app, direttamente dal tuo browser.
 
