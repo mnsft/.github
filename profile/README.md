@@ -24,6 +24,10 @@ Gestisci prenotazioni, slot interni e tempi morti con un sistema intuitivo e ott
 Il tuo alleato per nutrizione e benessere.  
 Piani personalizzati, tracciamento dei progressi e strumenti per professionisti della salute.
 
+### 🔹 [kronos-app.com](https://kronos-app.com)
+Il sistema di allenamento digitale per personal trainer e atleti.  
+Analisi dei progressi, suggerimento automatico dei carichi e coaching professionale in tempo reale.
+
 ### 🔹 [menuweb.net](https://menuweb.net)
 Menù digitali interattivi per ristoranti e bar.  
 Aggiornabili in tempo reale, senza app, direttamente dal tuo browser.
